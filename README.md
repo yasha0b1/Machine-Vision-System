@@ -13,3 +13,5 @@ With three possible colors:
 * Red
 * Green
 * Blue
+
+This code requires [Machine Vision Toolbox](http://www.petercorke.com/Machine_Vision_Toolbox.html)
