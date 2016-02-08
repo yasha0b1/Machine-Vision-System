@@ -14,4 +14,4 @@ With three possible colors:
 * Green
 * Blue
 
-This code requires [Machine Vision Toolbox](http://www.petercorke.com/Machine_Vision_Toolbox.html)
+This code is dependent on [Machine Vision Toolbox](http://www.petercorke.com/Machine_Vision_Toolbox.html)
